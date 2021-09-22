@@ -1,4 +1,5 @@
 # Kafka authorization 建立
+[![hackmd-github-sync-badge](https://hackmd.io/wqtga_Q6QoiFK4SFIeRt9A/badge)](https://hackmd.io/wqtga_Q6QoiFK4SFIeRt9A)
 
 啟動zookeeper，先不要啟用kafka server。
 1. 創建使用者
